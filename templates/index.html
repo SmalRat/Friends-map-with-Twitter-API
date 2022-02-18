@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block body %}
+<div>
+<h1>Search for locations of the accounts, followed by username</h1>
+<form action="/generate_map" method="post">
+    <input name="Account name" placeholder="Type username here" type="text"/>
+</form>
+</div>
+{% endblock %}

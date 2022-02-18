@@ -22,7 +22,7 @@ By clicking on markers, you can see the name of the profile, which is located he
 It is possible that error will appear. In that case you will be redirected to a specific page with the message about the error.
 <img src="screenshots/No_username_provided_error.png" alt="No username provided error page"/>
 
-##Twitter API token
+## Twitter API token
 For security purposes, Twitter API token is saved in the .env file, so if you want to use the app, you should create your own .env file with your token stated there.
 ## License
 [MIT](LICENSE.txt)
